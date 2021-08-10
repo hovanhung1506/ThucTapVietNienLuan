@@ -1,0 +1,8 @@
+Mã hóa đơn: 30
+Tên khách hàng: Deana Craig	 Số điện thoại: 0957864121
+Tên nhân viên : Yua Mikami	 Ngày bán     : 16-05-2021
+Danh sách các sản phẩm
+STT	Tên hàng			    Số lượng	 Giá
+1       Xiaomi Mi 10T 5G                        3       12490000
+2       iPhone 12 Pro Max                       5       39990000
+Tổng: 237420000 VNĐ

@@ -1,0 +1,8 @@
+Mã hóa đơn: 43
+Tên khách hàng: Bobbie Everett	 Số điện thoại: 0909617590
+Tên nhân viên : Chủ quán	 Ngày bán     : 22-07-2021
+Danh sách các sản phẩm
+STT	Tên hàng			    Số lượng	 Giá
+1       Vivo Y51                                1       5790000
+2       SamSung Galaxy Note 20 Ultra 5G         1       23990000
+Tổng: 29780000 VNĐ

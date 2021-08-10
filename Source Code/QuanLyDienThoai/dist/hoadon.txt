@@ -1,0 +1,8 @@
+Mã hóa đơn: 19
+Tên khách hàng: Vickie Sanders	 Số điện thoại: 0983627966
+Tên nhân viên : Nobi Nobita	 Ngày bán     : 22-03-2021
+Danh sách các sản phẩm
+STT	Tên hàng			    Số lượng	 Giá
+1       Xiaomi Redmi Note 10S                   4       6090000
+2       SamSung Galaxy S20 Ultra 5G             2       21990000
+Tổng: 68340000 VNĐ
